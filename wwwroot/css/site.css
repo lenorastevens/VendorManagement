@@ -47,6 +47,8 @@ body {
 
 #vendor-table {
     background-color: white;
+    padding: 3%;
+    border-radius: 14px
 }
 
 #vendor-container {
